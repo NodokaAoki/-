@@ -33,6 +33,7 @@ main{
 	background-size: cover;
 	background-position: bottom;
 	height: 150px;
+	width: 280px;
 }
 
 .step2-img{
@@ -40,6 +41,7 @@ main{
 	background-size: cover;
 	background-position: bottom;
 	height: 150px;
+	width: 280px;
 }
 
 .step3-img{
@@ -47,6 +49,7 @@ main{
 	background-position: bottom;
 	background-size: cover;
 	height: 150px;
+	width: 280px;
 }
 
 .step-title{
@@ -81,4 +84,5 @@ main{
 
 	.step1-img,.step2-img,.step3-img{
 		padding-top: 40%;
+		width: 100%;
 }
